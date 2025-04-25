@@ -3,9 +3,9 @@
 * Material Dashboard PRO - v3.0.1
 =========================================================
 
-* Product Page:  https://www.creative-tim.com/product/material-dashboard-pro 
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://www.creative-tim.com/license)
+* Product Page:  https://g4-technologies.com/product/material-dashboard-pro
+* Copyright 2021 Creative Tim (https://g4-technologies.com)
+* Licensed under MIT (https://g4-technologies.com/license)
 
 * Coded by Creative Tim
 
@@ -649,7 +649,7 @@
                                     <ul class="nav nav-sm flex-column">
                                         <li class="nav-item">
                                             <a class="nav-link text-white "
-                                                href="https://www.creative-tim.com/learning-lab/bootstrap/quick-start/material-dashboard"
+                                                href="https://g4-technologies.com/learning-lab/bootstrap/quick-start/material-dashboard"
                                                 target="_blank">
                                                 <span class="sidenav-mini-icon"> Q </span>
                                                 <span class="sidenav-normal  me-3  ps-1"> Quick Start </span>
@@ -657,7 +657,7 @@
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-white "
-                                                href="https://www.creative-tim.com/learning-lab/bootstrap/license/material-dashboard"
+                                                href="https://g4-technologies.com/learning-lab/bootstrap/license/material-dashboard"
                                                 target="_blank">
                                                 <span class="sidenav-mini-icon"> L </span>
                                                 <span class="sidenav-normal  me-3  ps-1"> License </span>
@@ -665,7 +665,7 @@
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-white "
-                                                href="https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard"
+                                                href="https://g4-technologies.com/learning-lab/bootstrap/overview/material-dashboard"
                                                 target="_blank">
                                                 <span class="sidenav-mini-icon"> C </span>
                                                 <span class="sidenav-normal  me-3  ps-1"> Contents </span>
@@ -673,7 +673,7 @@
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-white "
-                                                href="https://www.creative-tim.com/learning-lab/bootstrap/build-tools/material-dashboard"
+                                                href="https://g4-technologies.com/learning-lab/bootstrap/build-tools/material-dashboard"
                                                 target="_blank">
                                                 <span class="sidenav-mini-icon"> B </span>
                                                 <span class="sidenav-normal  me-3  ps-1"> Build Tools </span>
@@ -692,7 +692,7 @@
                                     <ul class="nav nav-sm flex-column">
                                         <li class="nav-item">
                                             <a class="nav-link text-white "
-                                                href="https://www.creative-tim.com/learning-lab/bootstrap/colors/material-dashboard"
+                                                href="https://g4-technologies.com/learning-lab/bootstrap/colors/material-dashboard"
                                                 target="_blank">
                                                 <span class="sidenav-mini-icon"> C </span>
                                                 <span class="sidenav-normal  me-3  ps-1"> Colors </span>
@@ -700,7 +700,7 @@
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-white "
-                                                href="https://www.creative-tim.com/learning-lab/bootstrap/grid/material-dashboard"
+                                                href="https://g4-technologies.com/learning-lab/bootstrap/grid/material-dashboard"
                                                 target="_blank">
                                                 <span class="sidenav-mini-icon"> G </span>
                                                 <span class="sidenav-normal  me-3  ps-1"> Grid </span>
@@ -708,7 +708,7 @@
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-white "
-                                                href="https://www.creative-tim.com/learning-lab/bootstrap/typography/material-dashboard"
+                                                href="https://g4-technologies.com/learning-lab/bootstrap/typography/material-dashboard"
                                                 target="_blank">
                                                 <span class="sidenav-mini-icon"> T </span>
                                                 <span class="sidenav-normal  me-3  ps-1"> Typography </span>
@@ -716,7 +716,7 @@
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-white "
-                                                href="https://www.creative-tim.com/learning-lab/bootstrap/icons/material-dashboard"
+                                                href="https://g4-technologies.com/learning-lab/bootstrap/icons/material-dashboard"
                                                 target="_blank">
                                                 <span class="sidenav-mini-icon"> I </span>
                                                 <span class="sidenav-normal  me-3  ps-1"> Icons </span>
@@ -739,7 +739,7 @@
                         <ul class="nav  pe-0 ">
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/alerts/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/alerts/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> A </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Alerts </span>
@@ -747,7 +747,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/badge/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/badge/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> B </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Badge </span>
@@ -755,7 +755,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/buttons/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/buttons/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> B </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Buttons </span>
@@ -763,7 +763,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/cards/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/cards/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> C </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Card </span>
@@ -771,7 +771,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/carousel/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/carousel/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> C </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Carousel </span>
@@ -779,7 +779,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/collapse/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/collapse/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> C </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Collapse </span>
@@ -787,7 +787,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/dropdowns/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/dropdowns/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> D </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Dropdowns </span>
@@ -795,7 +795,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/forms/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/forms/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> F </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Forms </span>
@@ -803,7 +803,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/modal/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/modal/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> M </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Modal </span>
@@ -811,7 +811,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/navs/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/navs/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> N </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Navs </span>
@@ -819,7 +819,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/navbar/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/navbar/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> N </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Navbar </span>
@@ -827,7 +827,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/pagination/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/pagination/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> P </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Pagination </span>
@@ -835,7 +835,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/popovers/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/popovers/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> P </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Popovers </span>
@@ -843,7 +843,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/progress/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/progress/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> P </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Progress </span>
@@ -851,7 +851,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/spinners/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/spinners/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> S </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Spinners </span>
@@ -859,7 +859,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/tables/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/tables/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> T </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Tables </span>
@@ -867,7 +867,7 @@
                             </li>
                             <li class="nav-item ">
                                 <a class="nav-link text-white "
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/tooltips/material-dashboard"
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/tooltips/material-dashboard"
                                     target="_blank">
                                     <span class="sidenav-mini-icon"> T </span>
                                     <span class="sidenav-normal  me-3  ps-1"> Tooltips </span>
@@ -1479,7 +1479,7 @@
 
                                 </script>,
                                 made with <i class="fa fa-heart"></i> by
-                                <a href="https://www.creative-tim.com" class="font-weight-bold" target="_blank">Creative
+                                <a href="https://g4-technologies.com" class="font-weight-bold" target="_blank">Creative
                                     Tim &UPDIVISION</a>
                                 for a better web.
                             </div>
@@ -1487,19 +1487,19 @@
                         <div class="col-lg-6">
                             <ul class="nav nav-footer justify-content-center justify-content-lg-end">
                                 <li class="nav-item">
-                                    <a href="https://www.creative-tim.com" class="nav-link text-muted"
+                                    <a href="https://g4-technologies.com" class="nav-link text-muted"
                                         target="_blank">Creative Tim</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="https://www.creative-tim.com/presentation" class="nav-link text-muted"
+                                    <a href="https://g4-technologies.com/presentation" class="nav-link text-muted"
                                         target="_blank">About Us</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="https://www.creative-tim.com/blog" class="nav-link text-muted"
+                                    <a href="https://g4-technologies.com/blog" class="nav-link text-muted"
                                         target="_blank">Blog</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="https://www.creative-tim.com/license" class="nav-link pe-0 text-muted"
+                                    <a href="https://g4-technologies.com/license" class="nav-link pe-0 text-muted"
                                         target="_blank">License</a>
                                 </li>
                             </ul>
@@ -1588,9 +1588,9 @@
                 </div>
                 <hr class="horizontal dark my-sm-4">
                 <a class="btn bg-gradient-primary w-100"
-                    href="https://www.creative-tim.com/product/material-dashboard-pro">Buy now</a>
+                    href="https://g4-technologies.com/product/material-dashboard-pro">Buy now</a>
                 <a class="btn btn-outline-dark w-100"
-                    href="https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard">View
+                    href="https://g4-technologies.com/learning-lab/bootstrap/overview/material-dashboard">View
                     documentation</a>
                 <div class="w-100 text-center">
                     <a class="github-button" href="https://github.com/creativetimofficial/material-dashboard"
@@ -1601,7 +1601,7 @@
                         class="btn btn-dark mb-0 me-2" target="_blank">
                         <i class="fab fa-twitter me-1" aria-hidden="true"></i> Tweet
                     </a>
-                    <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.creative-tim.com/product/material-dashboard-pro"
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=https://g4-technologies.com/product/material-dashboard-pro"
                         class="btn btn-dark mb-0 me-2" target="_blank">
                         <i class="fab fa-facebook-square me-1" aria-hidden="true"></i> Share
                     </a>

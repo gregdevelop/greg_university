@@ -657,7 +657,7 @@
                         <ul class="list-group">
                             <li class="nav-item list-group-item border-0 p-0">
                                 <a class="dropdown-item border-radius-md text-dark"
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/overview/material-dashboard">
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/overview/material-dashboard">
                                     <div class="d-flex align-items-center">
                                         <i class="material-icons opacity-6 me-2 text-md">article</i>
                                         <h6
@@ -670,7 +670,7 @@
                             </li>
                             <li class="nav-item list-group-item border-0 p-0">
                                 <a class="dropdown-item border-radius-md text-dark"
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/colors/material-dashboard">
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/colors/material-dashboard">
                                     <div class="d-flex align-items-center">
                                         <i class="material-icons opacity-6 me-2 text-md">grading</i>
                                         <h6
@@ -682,7 +682,7 @@
                             </li>
                             <li class="nav-item list-group-item border-0 p-0">
                                 <a class="dropdown-item border-radius-md text-dark"
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/alerts/material-dashboard">
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/alerts/material-dashboard">
                                     <div class="d-flex align-items-center">
                                         <i class="material-icons opacity-6 me-2 text-md">apps</i>
                                         <h6
@@ -695,7 +695,7 @@
                             </li>
                             <li class="nav-item list-group-item border-0 p-0">
                                 <a class="dropdown-item border-radius-md text-dark"
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/datepicker/material-dashboard">
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/datepicker/material-dashboard">
                                     <div class="d-flex align-items-center">
                                         <i class="material-icons opacity-6 me-2 text-md">extension</i>
                                         <h6
@@ -707,7 +707,7 @@
                             </li>
                             <li class="nav-item list-group-item border-0 p-0">
                                 <a class="dropdown-item border-radius-md text-dark"
-                                    href="https://www.creative-tim.com/learning-lab/bootstrap/utilities/material-dashboard">
+                                    href="https://g4-technologies.com/learning-lab/bootstrap/utilities/material-dashboard">
                                     <div class="d-flex align-items-center">
                                         <i class="material-icons opacity-6 me-2 text-md">swipe</i>
                                         <h6
@@ -790,7 +790,7 @@
         </ul>
         <ul class="navbar-nav d-lg-block d-none">
             <li class="nav-item">
-                <a href="https://www.creative-tim.com/product/material-dashboard-pro-laravel"
+                <a href="https://g4-technologies.com/product/material-dashboard-pro-laravel"
                     class="btn btn-sm  {{ $btn }}  mb-0" target="_blank">Buy Now</a>
             </li>
         </ul>

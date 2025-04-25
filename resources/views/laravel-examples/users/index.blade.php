@@ -73,7 +73,12 @@
                                         <td class="text-sm font-weight-normal">{{ $user->name }}</td>
                                         <td class="text-sm font-weight-normal">{{ $user->email }}</td>
                                         <td class="text-sm font-weight-normal">{{ $user->role->name }}</td>
-                                        <td class="text-sm font-weight-normal">{{ $user->created_at->format('Y-m-d') }}
+                                        <td class="text-sm font-weight-normal">
+                                            @if ($user->created_at)
+                                                {{ $user->created_at->format('Y-m-d') }}
+                                            @else
+                                                N/A
+                                            @endif
                                         </td>
                                         @can('manage-users', App\Models\User::class)
                                         <td>

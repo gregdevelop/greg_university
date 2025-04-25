@@ -75,7 +75,7 @@
             </div>
             <hr class="horizontal dark my-sm-4">
             <a class="btn bg-gradient-primary w-100"
-                href="https://www.creative-tim.com/product/material-dashboard-pro-laravel" target="_blank">Buy now</a>
+                href="https://g4-technologies.com/product/material-dashboard-pro-laravel" target="_blank">Buy now</a>
             <a class="btn btn-outline-dark w-100"
                 href="../../documentation/getting-started/installation.html" target="_blank">View
                 documentation</a>
@@ -88,7 +88,7 @@
                     class="btn btn-dark mb-0 me-2" target="_blank">
                     <i class="fab fa-twitter me-1" aria-hidden="true"></i> Tweet
                 </a>
-                <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.creative-tim.com/product/material-dashboard-pro-laravel"
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https://g4-technologies.com/product/material-dashboard-pro-laravel"
                     class="btn btn-dark mb-0 me-2" target="_blank">
                     <i class="fab fa-facebook-square me-1" aria-hidden="true"></i> Share
                 </a>

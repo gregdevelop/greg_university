@@ -945,13 +945,13 @@
     <div class="sidenav-footer w-100 bottom-0 mt-2 ">
         <div class="mx-3">
             <a class="btn bg-gradient-primary w-100"
-                href="https://www.creative-tim.com/product/material-dashboard-pro-laravel" target="_blank" type="button">Buy Now</a>
+                href="https://g4-technologies.com/product/material-dashboard-pro-laravel" target="_blank" type="button">Buy Now</a>
         </div>
         <div class="mx-3">
             <a class="btn bg-gradient-primary w-100" href="../../documentation/getting-started/installation.html" target="_blank">View documentation</a>
         </div>
         <div class="mx-3">
-            <a class="btn bg-gradient-primary w-100" href="https://www.creative-tim.com/product/material-dashboard-laravel" target="_blank">Get Free Version</a>
+            <a class="btn bg-gradient-primary w-100" href="https://g4-technologies.com/product/material-dashboard-laravel" target="_blank">Get Free Version</a>
         </div>
     </div>
 </aside>

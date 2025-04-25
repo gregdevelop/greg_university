@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\GoogleLoginController;
 use App\Http\Controllers\ItemsController;
 use App\Http\Controllers\RegisterController;
 use App\Http\Controllers\RolesController;
@@ -27,6 +28,22 @@ Route::get('/', function () {
 })->middleware('guest');
 
 Route::get('dashboard', [DashboardController::class, 'index'])->middleware('auth')->name('dashboard');
+
+//Privacy policy
+Route::get('/privacy-policy', function () { return view('legal.privacy-policy'); })->middleware(['guest'])->name('privacy-policy');
+
+//Support Privacy policy
+Route::get('/support', function () { return view('legal.support'); })->middleware(['guest'])->name('support');
+
+//Privacy policy
+Route::get('/delete-user-info', function () { return view('legal.delete-user-info'); })->middleware(['guest'])->name('delete-user-info');
+
+//Terms and conditions
+Route::get('/terms-conditions', function () { return view('legal.terms-conditions'); })->middleware(['guest'])->name('terms-conditions');
+
+// routes/web.php
+Route::get('/auth/google', [GoogleLoginController::class, 'redirectToGoogle'])->name('google.login');
+Route::get('/callback/google', [GoogleLoginController::class, 'handleGoogleCallback'])->name('google.callback');
 
 Route::get('sign-up', [RegisterController::class, 'create'])->middleware('guest')->name('register');
 Route::post('sign-up', [RegisterController::class, 'store'])->middleware('guest');

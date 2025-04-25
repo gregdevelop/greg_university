@@ -27,7 +27,7 @@
     <meta property="fb:app_id" content="655968634437471" />
     <meta property="og:title" content="Material Dashboard 2 PRO Laravel by Creative Tim & UPDIVISION" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.creative-tim.com/live/material-dashboard-pro-laravel" />
+    <meta property="og:url" content="https://g4-technologies.com/live/material-dashboard-pro-laravel" />
     <meta property="og:image" content="https://s3.amazonaws.com/creativetim_bucket/products/158/original/material-dashboard-pro-laravel.jpg" />
     <meta property="og:description" content="Fullstack tool for building Laravel apps with hundreds of UI components and ready-made CRUDs" />
     <meta property="og:site_name" content="Creative Tim" />
