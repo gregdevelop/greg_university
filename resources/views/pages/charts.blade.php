@@ -547,7 +547,7 @@
         new Chart(ctx3, {
             type: "doughnut",
             data: {
-                labels: ['Creative Tim', 'Github', 'Bootsnipp', 'Dev.to', 'Codeinwp'],
+                labels: ['G4 Technologies', 'Github', 'Bootsnipp', 'Dev.to', 'Codeinwp'],
                 datasets: [{
                     label: "Projects",
                     weight: 9,

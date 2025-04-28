@@ -7,17 +7,17 @@
               document.write(new Date().getFullYear())
             </script>,
             made with <i class="fa fa-heart"></i> by
-            <a href="https://g4-technologies.com" class="font-weight-bold" target="_blank">Creative Tim</a> & <a href="https://www.updivision.com" class="font-weight-bold" target="_blank">UPDIVISION</a>
+            <a href="https://g4-technologies.com" class="font-weight-bold" target="_blank">G4 Technologies</a> <a href="https://www. .com" class="font-weight-bold" target="_blank"> </a>
             for a better web.
           </div>
         </div>
         <div class="col-lg-6">
           <ul class="nav nav-footer justify-content-center justify-content-lg-end">
             <li class="nav-item">
-              <a href="https://g4-technologies.com" class="nav-link text-muted" target="_blank">Creative Tim</a>
+              <a href="https://g4-technologies.com" class="nav-link text-muted" target="_blank">G4 Technologies</a>
             </li>
             <li class="nav-item">
-              <a href="https://www.updivision.com" class="nav-link text-muted" target="_blank">UPDIVISION</a>
+              <a href="https://www. .com" class="nav-link text-muted" target="_blank"> </a>
             </li>
             <li class="nav-item">
               <a href="https://g4-technologies.com/presentation" class="nav-link text-muted" target="_blank">About Us</a>

@@ -8,16 +8,16 @@
               document.write(new Date().getFullYear())
             </script>,
             made with <i class="fa fa-heart" aria-hidden="true"></i> by
-            <a href="https://g4-technologies.com" class="{{ $textColor}} font-weight-bold" target="_blank">Creative Tim</a> & <a href="https://www.updivision.com" class="{{ $textColor}} font-weight-bold" target="_blank">UPDIVISION</a>
+            <a href="https://g4-technologies.com" class="{{ $textColor}} font-weight-bold" target="_blank">G4 Technologies</a> & <a href="https://www. .com" class="{{ $textColor}} font-weight-bold" target="_blank"> </a>
           </div>
         </div>
         <div class="col-12 col-md-6">
           <ul class="nav nav-footer justify-content-center justify-content-lg-end">
             <li class="nav-item">
-              <a href="https://g4-technologies.com" class="nav-link {{ $textColor}}" target="_blank">Creative Tim</a>
+              <a href="https://g4-technologies.com" class="nav-link {{ $textColor}}" target="_blank">G4 Technologies</a>
             </li>
             <li class="nav-item">
-              <a href="https://www.updivision.com" class="nav-link {{ $textColor}}" target="_blank">UPDIVISION</a>
+              <a href="https://www. .com" class="nav-link {{ $textColor}}" target="_blank"> </a>
             </li>
 
             <li class="nav-item">

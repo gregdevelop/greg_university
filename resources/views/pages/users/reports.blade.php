@@ -151,7 +151,7 @@
                         <div class="card-footer pt-0 p-3 d-flex align-items-center">
                             <div class="w-60">
                                 <p class="text-sm mb-0">
-                                    More than <b>1,500,000</b> developers used Creative Tim's products and over
+                                    More than <b>1,500,000</b> developers used G4 Technologies's products and over
                                     <b>700,000</b> projects were created.
                                 </p>
                             </div>

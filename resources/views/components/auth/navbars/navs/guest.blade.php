@@ -2,8 +2,10 @@
 
 <div class="container {{ $p }}">
     <a class="navbar-brand font-weight-bolder ms-lg-0 ms-3 d-flex flex-column {{ $textColor }}" href="{{ route('dashboard') }}">
-        Material Dashboard 2 PRO
+         GREG University
+{{--
         <span>Laravel</span>
+--}}
     </a>
     <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation"
         aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
@@ -788,11 +790,11 @@
             </li>
             @endguest
         </ul>
-        <ul class="navbar-nav d-lg-block d-none">
+        {{--<ul class="navbar-nav d-lg-block d-none">
             <li class="nav-item">
                 <a href="https://g4-technologies.com/product/material-dashboard-pro-laravel"
                     class="btn btn-sm  {{ $btn }}  mb-0" target="_blank">Buy Now</a>
             </li>
-        </ul>
+        </ul>--}}
     </div>
 </div>

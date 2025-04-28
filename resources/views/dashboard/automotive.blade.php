@@ -188,7 +188,7 @@
                                     <div class="d-flex align-items-center">
                                         <h3 class="text-white mb-1 ms-lg-auto">6.3<small
                                                 class="align-top text-sm">Km</small></h3>
-                                        <p class="text-white opacity-8 mb-1 ms-3">Distance to Creative Tim</p>
+                                        <p class="text-white opacity-8 mb-1 ms-3">Distance to G4 Technologies</p>
                                     </div>
                                 </div>
                             </div>

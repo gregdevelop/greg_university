@@ -153,7 +153,7 @@
                                                     </div>
                                                     <div class="mx-auto">
                                                         <p class="mb-0 text-secondary">Company</p>
-                                                        <span class="text-xs">Creative Tim</span>
+                                                        <span class="text-xs">G4 Technologies</span>
                                                     </div>
                                                 </div>
                                             </div>

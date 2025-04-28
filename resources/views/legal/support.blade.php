@@ -1,128 +1,153 @@
-    <main class="terms-container">
-        <div class="support-header">
-            <div class="container">
-                <div class="header-content">
-                    <img src="{{ asset('/img/logos/GREG-LOGO-White.png') }}" class="logo" alt="Workspaces Logo">
-                    <h1>Greg Workspace</h1>
-                    <p class="tagline">Efficient workspace scheduling for your organization</p>
-                </div>
-            </div>
-        </div>
-
+<main class="terms-container">
+    <div class="support-header">
         <div class="container">
-            <div class="support-content">
-                <h2 class="support-title">Support Center</h2>
+            <div class="header-content">
+                <img src="{{ asset('/img/logos/GREG-LOGO-White.png') }}" class="logo" alt="Greg University Logo">
+                <h1>Greg University</h1>
+                <p class="tagline">Empowering your onboarding journey at Greg</p>
+            </div>
+        </div>
+    </div>
 
-                <div class="support-intro">
-                    <p>Welcome to the Greg Workspace Support Center. We're here to help you with any issues related to workspace booking and scheduling within your organization.</p>
-                    <p>Our team is committed to providing timely assistance to ensure your workspace booking experience is seamless and efficient.</p>
+    <div class="container">
+        <div class="support-content">
+            <h2 class="support-title">Support Center</h2>
+
+            <div class="support-intro">
+                <p>Welcome to the Greg University Support Center. We're here to assist you with any questions or issues you may encounter while completing your onboarding process and training modules.</p>
+                <p>Our team is committed to helping you succeed in your new role by ensuring a smooth and efficient learning experience within our platform.</p>
+            </div>
+
+            <div class="contact-methods">
+                <h3 class="section-title">Contact Options</h3>
+                <ul class="contact-list">
+                    <li><strong>Email:</strong> <a href="mailto:support@greguniversity.com" class="terms-link">support@greguniversity.com</a></li>
+                    <li><strong>Phone:</strong> <a href="tel:+14843473453" class="terms-link">+1 (484) 347-3453</a></li>
+                    <li><strong>Office Hours:</strong> Monday-Friday, 9:00 AM - 5:00 PM EST</li>
+                </ul>
+            </div>
+
+            <div class="contact-form-container">
+                <h3 class="section-title">Send Us a Message</h3>
+                <form id="supportForm" method="POST">
+                    @csrf
+                    <div class="form-group">
+                        <label for="name">Full Name</label>
+                        <input type="text" id="name" name="name" required class="form-control">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="email">Email Address</label>
+                        <input type="email" id="email" name="email" required class="form-control">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="department">Department</label>
+                        <select id="department" name="department" class="form-control">
+                            <option value="">Select your department</option>
+                            <option value="IT">IT</option>
+                            <option value="HR">Human Resources</option>
+                            <option value="Finance">Finance</option>
+                            <option value="Operations">Operations</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="subject">Subject</label>
+                        <select id="subject" name="subject" class="form-control">
+                            <option value="">Select a topic</option>
+                            <option value="Account Access">Account Access Problems</option>
+                            <option value="Course Navigation">Course Navigation Help</option>
+                            <option value="Progress Tracking">Progress Tracking Issues</option>
+                            <option value="Technical Issue">Technical Issue</option>
+                            <option value="Other">Other Inquiry</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" name="message" rows="5" required class="form-control"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="urgent" id="urgent">
+                            <span>This is an urgent request</span>
+                        </label>
+                    </div>
+
+                    <button type="submit" class="submit-btn">Send Message</button>
+                </form>
+            </div>
+
+            <div class="faq-section">
+                <h3 class="section-title">Frequently Asked Questions</h3>
+
+                <div class="faq-item">
+                    <button class="faq-question">How do I access my onboarding courses?</button>
+                    <div class="faq-answer">
+                        <p>After logging into Greg University, your assigned courses will appear on your dashboard. Click on any course to begin your learning journey.</p>
+                    </div>
                 </div>
 
-                <div class="contact-methods">
-                    <h3 class="section-title">Contact Options</h3>
-                    <ul class="contact-list">
-                        <li><strong>Email:</strong> <a href="mailto:support@gregworkspace.com" class="terms-link">support@gregworkspace.com</a></li>
-                        <li><strong>Phone:</strong> <a href="tel:+14843473453" class="terms-link">+1 (484) 347-3453</a></li>
-                        <li><strong>Office Hours:</strong> Monday-Friday, 9:00 AM - 5:00 PM EST</li>
-                    </ul>
+                <div class="faq-item">
+                    <button class="faq-question">What should I do if I forget my password?</button>
+                    <div class="faq-answer">
+                        <p>Click on the "Forgot Password?" link on the login page and follow the instructions to reset your password via email.</p>
+                    </div>
                 </div>
 
-                <div class="contact-form-container">
-                    <h3 class="section-title">Send Us a Message</h3>
-                    <form id="supportForm" method="POST" >
-                        @csrf
-                        <div class="form-group">
-                            <label for="name">Full Name</label>
-                            <input type="text" id="name" name="name" required class="form-control">
-                        </div>
-
-                        <div class="form-group">
-                            <label for="email">Email Address</label>
-                            <input type="email" id="email" name="email" required class="form-control">
-                        </div>
-
-                        <div class="form-group">
-                            <label for="department">Department</label>
-                            <select id="department" name="department" class="form-control">
-                                <option value="">Select your department</option>
-                                <option value="IT">IT</option>
-                                <option value="HR">Human Resources</option>
-                                <option value="Finance">Finance</option>
-                                <option value="Operations">Operations</option>
-                                <option value="Other">Other</option>
-                            </select>
-                        </div>
-
-                        <div class="form-group">
-                            <label for="subject">Subject</label>
-                            <select id="subject" name="subject" class="form-control">
-                                <option value="">Select a topic</option>
-                                <option value="Booking Issues">Workspace Booking Issues</option>
-                                <option value="Account Access">Account Access Problems</option>
-                                <option value="Feature Request">Feature Request</option>
-                                <option value="Bug Report">Bug Report</option>
-                                <option value="Other">Other Inquiry</option>
-                            </select>
-                        </div>
-
-                        <div class="form-group">
-                            <label for="message">Message</label>
-                            <textarea id="message" name="message" rows="5" required class="form-control"></textarea>
-                        </div>
-
-                        <div class="form-group">
-                            <label class="checkbox-label">
-                                <input type="checkbox" name="urgent" id="urgent">
-                                <span>This is an urgent request</span>
-                            </label>
-                        </div>
-
-                        <button type="submit" class="submit-btn">Send Message</button>
-                    </form>
+                <div class="faq-item">
+                    <button class="faq-question">How can I track my training progress?</button>
+                    <div class="faq-answer">
+                        <p>Your progress is automatically tracked and displayed on your dashboard. You can view completed, pending, and in-progress modules at any time.</p>
+                    </div>
                 </div>
 
-                <div class="faq-section">
-                    <h3 class="section-title">Frequently Asked Questions</h3>
-
-                    <div class="faq-item">
-                        <button class="faq-question">How do I book a workspace?</button>
-                        <div class="faq-answer">
-                            <p>To book a workspace, log in to Greg Workspace, select your desired date and location, then choose an available workspace from the map or list view. Click "Reserve" to confirm your booking.</p>
-                        </div>
+                <div class="faq-item">
+                    <button class="faq-question">Who do I contact if I encounter technical issues?</button>
+                    <div class="faq-answer">
+                        <p>If you experience technical issues, please fill out the support form above or contact us directly via email or phone during office hours.</p>
                     </div>
+                </div>
 
-                    <div class="faq-item">
-                        <button class="faq-question">Who can use Greg Workspace?</button>
-                        <div class="faq-answer">
-                            <p>Greg Workspace is available to all employees who have been authorized in our system. Access requires authentication through your company Google account.</p>
-                        </div>
-                    </div>
-
-                    <div class="faq-item">
-                        <button class="faq-question">Can I cancel or modify a booking?</button>
-                        <div class="faq-answer">
-                            <p>Yes, you can modify or cancel bookings up to 2 hours before the scheduled time. Go to "My Bookings" and select the reservation you want to change.</p>
-                        </div>
-                    </div>
-
-                    <div class="faq-item">
-                        <button class="faq-question">What should I do if a workspace is unavailable?</button>
-                        <div class="faq-answer">
-                            <p>If your preferred workspace is unavailable, try selecting a different location or time. You can also set up notifications for when a specific workspace becomes available.</p>
-                        </div>
-                    </div>
-
-                    <div class="faq-item">
-                        <button class="faq-question">How do I report a problem with a workspace?</button>
-                        <div class="faq-answer">
-                            <p>Please use the "Report Issue" button on the workspace details page or contact support directly through this form for immediate assistance.</p>
-                        </div>
+                <div class="faq-item">
+                    <button class="faq-question">Can I access Greg University outside of office hours?</button>
+                    <div class="faq-answer">
+                        <p>Yes! Greg University is available 24/7 online. However, support inquiries are handled during office hours.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </main>
+    </div>
+</main>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const faqQuestions = document.querySelectorAll('.faq-question');
+
+        faqQuestions.forEach(function (button) {
+            button.addEventListener('click', function () {
+                const answer = this.nextElementSibling;
+
+                // Alternar la visibilidad de la respuesta
+                if (answer.style.maxHeight) {
+                    answer.style.maxHeight = null;
+                    answer.style.padding = null;
+                } else {
+                    // Cerrar otros abiertos (opcional)
+                    document.querySelectorAll('.faq-answer').forEach(function (otherAnswer) {
+                        otherAnswer.style.maxHeight = null;
+                        otherAnswer.style.padding = null;
+                    });
+                    answer.style.maxHeight = answer.scrollHeight + "px";
+                    answer.style.padding = "10px 0";
+                }
+            });
+        });
+    });
+</script>
 
 <style>
 
@@ -130,6 +155,13 @@
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
     }
+
+    .faq-answer {
+        overflow: hidden;
+        max-height: 0;
+        transition: max-height 0.3s ease, padding 0.3s ease;
+    }
+
     /* Support Page Styles */
     .support-header {
         padding: 5rem 0;

@@ -4,10 +4,10 @@
 =========================================================
 
 * Product Page:  https://g4-technologies.com/product/material-dashboard-pro
-* Copyright 2021 Creative Tim (https://g4-technologies.com)
+* Copyright 2021 G4 Technologies(https://g4-technologies.com)
 * Licensed under MIT (https://g4-technologies.com/license)
 
-* Coded by Creative Tim
+* Coded by G4 Technologies
 
 =========================================================
 
@@ -22,7 +22,7 @@
     <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('assets') }}/img/apple-icon.png">
     <link rel="icon" type="image/png" href="{{ asset('assets') }}/img/favicon.png">
     <title>
-        Material Dashboard PRO by Creative Tim
+        Material Dashboard PRO by G4 Technologies
     </title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css"
@@ -1480,7 +1480,7 @@
                                 </script>,
                                 made with <i class="fa fa-heart"></i> by
                                 <a href="https://g4-technologies.com" class="font-weight-bold" target="_blank">Creative
-                                    Tim &UPDIVISION</a>
+                                    Tim & </a>
                                 for a better web.
                             </div>
                         </div>
@@ -1488,7 +1488,7 @@
                             <ul class="nav nav-footer justify-content-center justify-content-lg-end">
                                 <li class="nav-item">
                                     <a href="https://g4-technologies.com" class="nav-link text-muted"
-                                        target="_blank">Creative Tim</a>
+                                        target="_blank">G4 Technologies</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="https://g4-technologies.com/presentation" class="nav-link text-muted"
@@ -1587,8 +1587,8 @@
                     </div>
                 </div>
                 <hr class="horizontal dark my-sm-4">
-                <a class="btn bg-gradient-primary w-100"
-                    href="https://g4-technologies.com/product/material-dashboard-pro">Buy now</a>
+                {{--<a class="btn bg-gradient-primary w-100"
+                    href="https://g4-technologies.com/product/material-dashboard-pro">Buy now</a>--}}
                 <a class="btn btn-outline-dark w-100"
                     href="https://g4-technologies.com/learning-lab/bootstrap/overview/material-dashboard">View
                     documentation</a>
